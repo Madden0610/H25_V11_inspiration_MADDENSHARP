@@ -1,3 +1,2 @@
-# TRAVAIL 1: LE BANQUET
-## (Répertoire GitHub) 15% (REMISE semaine 5)
+<h1> Le Banquet </h1>
 
