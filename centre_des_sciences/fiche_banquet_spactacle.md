@@ -1,10 +1,14 @@
-<h1 align="center">EXPOSITION EXPLORE</h1>
+<h1 align="center">LE BANQUET / LE SPECTACLE</h1>
  
 <div align=center>
+ 
 **Lieu :** Centre des sciences de Montréal
+
 <br>
+
 **Type d'exposition :** Temporaire et intérieure
 <br>
+
 **Date de visite :** 31 Janvier 2025
 </div>
 
