@@ -5,5 +5,6 @@ LE BANQUET
 <h2 align="center">
 le spectacle
 </h2>
-![Devant le centre des sciences](affiche_banquet.JPG)
+
+
  
