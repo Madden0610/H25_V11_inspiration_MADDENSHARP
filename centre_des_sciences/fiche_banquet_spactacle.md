@@ -7,7 +7,7 @@ le spectacle
 </h2>
 
 <div align="center">
-<img src="https://github.com/MrPoutineQc/H25_V11_inspirations_ZACKARYWARREN/blob/main/centre_des_sciences/media/centre_des_sciences.jpg" alt="Alt Text" width="600" height="450">
+<img src="https://github.com/Madden0610/H25_V11_inspiration_MADDENSHARP/blob/main/centre_des_sciences/media/affiche_pub02.png" alt="Alt Text" width="600" height="450">
 </div>
 Dispose d’un menu contextuel
 
