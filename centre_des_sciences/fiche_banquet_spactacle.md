@@ -37,7 +37,44 @@ Plusieurs installations interactives sur le thème de la cuisine et de la nourri
 </br>
 
 
-Le but de l'exposition est un service de restauration avec plusieurs services avec des projections sur les murs, mais également sur la grande table centrale de l'exposition 
+Le but de l'exposition est un service de restauration avec des repas gastronomiques avec plusieurs services avec des projections sur les murs, mais également sur la grande table centrale de l'exposition. Le but de l'exposition est de dévorer avec vos yeux.
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Madden0610/H25_V11_inspiration_MADDENSHARP/refs/heads/main/centre_des_sciences/media/vue_d'enssemble.JPG" alt="Alt Text" width="600" height="480">
+</div>
+
+<br>
+
+<h1 align="center">TYPE D'INSTALLATION</h1>
+
+</br>
+
+
+L'installation Le spectacle de l'exposition le banquet est une installation de type IMMERSIF qui nous apportent dans différent univers de la cuisine avec différent paysages selon les différents repas projecté.
+
+
+
+
+<br>
+
+<h1 align="center">COMPOSANTE ET TECHNIQUE</h1>
+
+</br>
+
+Le dispositif composent différtente composante technique pour faire bien marcher le dispositif 
+
+voici les composantes:
+
+
+
+
+
+
+
+
+
+
+
 
 
 
