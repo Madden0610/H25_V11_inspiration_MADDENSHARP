@@ -24,7 +24,7 @@ Plusieurs installations interactives sur le thème de la cuisine et de la nourri
 "Le Spectacle" est une exposition multisensorielle qui combine images, sons, projections et arômes, inspirée par un menu créé par les chefs Thierry Marx et Raphaël Haumont.
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Madden0610/H25_V11_inspiration_MADDENSHARP/refs/heads/main/centre_des_sciences/media/description_banquet.png" alt="Alt Text" width="450" height="480">
+<img src="https://raw.githubusercontent.com/Madden0610/H25_V11_inspiration_MADDENSHARP/refs/heads/main/centre_des_sciences/media/description_banquet.png" alt="Alt Text" width="600" height="480">
 </div>
 
 
@@ -37,7 +37,7 @@ Plusieurs installations interactives sur le thème de la cuisine et de la nourri
 </br>
 
 
-Le but de l'exposition est un service de restauration 
+Le but de l'exposition est un service de restauration avec plusieurs services avec des projections sur les murs, mais également sur la grande table centrale de l'exposition 
 
 
 
