@@ -65,6 +65,50 @@ Le dispositif composent différtente composante technique pour faire bien marche
 
 voici les différente composantes:
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/Madden0610/H25_V11_inspiration_MADDENSHARP/refs/heads/main/centre_des_sciences/media/spotlight.JPG" alt="Alt Text" width="500" height="450">
+</div>
+
+Nombreux projecteur de lumière sont installer dans les hauteurs du dispositif ils sont accompagné de gel de couleur pour apporter une certaine ambiance.
+
+<div align="center">
+<img src="https://github.com/Madden0610/H25_V11_inspiration_MADDENSHARP/blob/main/centre_des_sciences/media/projecteur_blanc.JPG?raw=true" alt="Alt Text" width="400" height="480">
+</div>
+
+
+Des projecteur plus petit  sont maintenus sur des suports de métal pour maintenir leur stabilité. C'est projecteur ont un role important, car ils font la projection sur les mur qui entoure la salle de l'expérience immersif.
+
+
+<div align="center">
+<img src="https://github.com/Madden0610/H25_V11_inspiration_MADDENSHARP/blob/main/centre_des_sciences/media/pp.PNG?raw=true" alt="Alt Text" width="400" height="480">
+</div>
+
+Un autre type de projecteur est utilisé pour la projection. Celui ci est utilisé pour la projection des images sur la table principal du dispositif. Comme pour l'autre propjecteir il est maintenu sur une structure de métal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
 
 
 
