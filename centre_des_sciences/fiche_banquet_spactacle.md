@@ -63,7 +63,12 @@ L'installation Le spectacle de l'exposition le banquet est une installation de t
 
 Le dispositif composent différtente composante technique pour faire bien marcher le dispositif 
 
-voici les composantes:
+voici les différente composantes:
+
+
+
+
+
 
 
 
