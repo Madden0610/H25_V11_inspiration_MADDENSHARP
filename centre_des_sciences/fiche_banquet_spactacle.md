@@ -87,7 +87,7 @@ Un autre type de projecteur est utilisé pour la projection. Celui ci est utilis
 
 
 <div align="center">
-<img src="" alt="Alt Text" width="400" height="480">
+<img src="https://github.com/Madden0610/H25_V11_inspiration_MADDENSHARP/blob/main/centre_des_sciences/media/tableau_entrée.JPG?raw=true" alt="Alt Text" width="400" height="480">
 </div>
 
 
