@@ -86,6 +86,11 @@ Des projecteur plus petit  sont maintenus sur des suports de métal pour mainten
 Un autre type de projecteur est utilisé pour la projection. Celui ci est utilisé pour la projection des images sur la table principal du dispositif. Comme pour l'autre propjecteir il est maintenu sur une structure de métal
 
 
+<div align="center">
+<img src="" alt="Alt Text" width="400" height="480">
+</div>
+
+
 
 
 
