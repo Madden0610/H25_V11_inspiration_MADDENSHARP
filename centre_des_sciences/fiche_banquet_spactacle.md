@@ -91,6 +91,22 @@ Un autre type de projecteur est utilisé pour la projection. Celui ci est utilis
 </div>
 
 
+<div align="center">
+<img src="https://github.com/Madden0610/H25_V11_inspiration_MADDENSHARP/blob/main/centre_des_sciences/media/description_expo_banquet.png?raw=true" alt="Alt Text" width="600" height="480">
+</div>
+
+
+Lors de votre entré vous allez apercevoir une écran avec une minutrie qui indique le prochain tour avant le commencement de la projection et juste en dessou de l'écran 4 panneau sont a votre disposition. 2 panneaux sont en français et les deux autres en  anglais. le panneau de couleur vert indique le menu que propose le dispositif et le panneau gris parle des chef cuisinier.
+
+<h1 align="center">COMPOSENTE DE LA TABLE centrale </h1>
+
+ 
+
+
+
+
+
+
 
 
 
