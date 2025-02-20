@@ -105,6 +105,49 @@ Lors de votre entré vous allez apercevoir une écran avec une minutrie qui indi
 </div>
 
 
+<h2>L'ASSIETTE</h2>
+
+<div align="center">
+<img src="https://github.com/Madden0610/H25_V11_inspiration_MADDENSHARP/blob/main/centre_des_sciences/media/assiette.JPG?raw=true" alt="Alt Text" width="600" height="480">
+</div>
+
+Chaque place dispose d'une assiette qui est accrocher a la table. C'est a se moment que nous pouvons apercevoir les différent plat que le menu nous proposait lors de notre entrée dans le dispositif.
+
+<h2>TROUE D'ODEUR</h2>
+
+<div align="center">
+<img src="https://github.com/Madden0610/H25_V11_inspiration_MADDENSHARP/blob/main/centre_des_sciences/media/odeur12.png?raw=true" alt="Alt Text" width="600" height="480">
+</div>
+
+Lors de l'expérience un petit troue qui se trouve juste en dessou de l'assiette vous permets d'utilisé votre sens de l'odorat. Différente saveure durand le service vous sera soufler sous votre nez. 
+
+<h2>HAUT-PARLEUR</h2>
+
+<div align="center">
+<img src="https://github.com/Madden0610/H25_V11_inspiration_MADDENSHARP/blob/main/centre_des_sciences/media/haut-parleur11.png?raw=true" alt="Alt Text" width="600" height="480">
+</div>
+
+Des haut-parleurs sont également situé sur le long de la table, car plusieures musiques d'ambiance son diffusé pour nos oreilles se qui rend l'expérience encore plus unique.
+
+<h1 align="center">EXPÉRIENCE VÉCUE</h1>
+
+Quelle belle expérience ! Le spectacle de l'exposition Le Banquet nous offre une immersion dans différents univers culinaires. Les projections sont magnifiques, un véritable régal pour les yeux, à couper le souffle. La table, qui nous plonge encore plus dans l'immersion, est simplement satisfaisante.
+
+
+Voici deux liens video qui vous permets de voir les projections:
+
+Projection sur la table](https://youtu.be/pPpeIPALbYc)
+
+[Nom de la vidéo](URL_de_la_vidéo)
+
+
+
+
+
+
+
+
+
 
 
  
