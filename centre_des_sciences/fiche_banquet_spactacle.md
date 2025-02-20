@@ -14,12 +14,16 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/Madden0610/H25_V11_inspiration_MADDENSHARP/blob/main/centre_des_sciences/media/affiche_pub02.png" alt="Alt Text" width="450" height="480">
+<img src="https://github.com/Madden0610/H25_V11_inspiration_MADDENSHARP/blob/main/centre_des_sciences/media/affiche_pub02.png" alt="Alt Text" width="450" height="480">   
+</div>
+
+<div align="center">
+<img src="https://github.com/Madden0610/H25_V11_inspiration_MADDENSHARP/blob/main/centre_des_sciences/media/photo_centre.jpg?raw=true" alt="Alt Text" width="600" height="480">
 </div>
 
 
 
-Lors de notre visite au Centre des sciences de Montréal, nous avons eu l'occasion de découvrir une exposition temporaire de la cité des sciences et industriem en partenariat avec INRAE et en collaboration avec Radio-Canada qui a mis en œuvre l'exposition "Le Banquet". 
+Lors de notre visite au Centre des sciences de Montréal, nous avons eu l'occasion de découvrir une exposition temporaire de GRAPHICS eMOTIONen partenariat avec INRAE et en collaboration avec Radio-Canada qui a mis en œuvre l'exposition "Le Banquet". 
 Plusieurs installations interactives sur le thème de la cuisine et de la nourriture sont présentées, mais une autre exposition a retenu davantage mon attention. Elle s'appelle "Le Spectacle".
 "Le Spectacle" est une exposition multisensorielle qui combine images, sons, projections et arômes, inspirée par un menu créé par les chefs Thierry Marx et Raphaël Haumont.
 
@@ -131,14 +135,22 @@ Des haut-parleurs sont également situé sur le long de la table, car plusieures
 
 <h1 align="center">EXPÉRIENCE VÉCUE</h1>
 
-Quelle belle expérience ! Le spectacle de l'exposition Le Banquet nous offre une immersion dans différents univers culinaires. Les projections sont magnifiques, un véritable régal pour les yeux, à couper le souffle. La table, qui nous plonge encore plus dans l'immersion, est simplement satisfaisante.
-
+L'expérience vécu est nul autre qu'un service de restauration 5 étoiles avec différent repas servis même si cela est simplement de la projection, ce n'est pas l'envie qui me manque de manger les différent plat servit.
 
 Voici deux liens video qui vous permets de voir les projections:
 
-Projection sur la table](https://youtu.be/pPpeIPALbYc)
+[Projection sur la table] (https://youtu.be/pPpeIPALbYc)
 
-[Nom de la vidéo](URL_de_la_vidéo)
+[Projection sur les murs](https://youtu.be/xX3brEP26ig)
+
+<h1 align="center">Ce qui ma plu le plus </h1>
+
+
+Ce que j'ai le plus aimer de l'expérience est les différentes projections sur la table l'éclairage était simplement magnifique les couleurs très vivent, ont se croyait vraiment dans un autre univers qui fait du bien pour nos yeux. 
+Aussi ce dont j'ai aprécier est le fait que nous pouvons partager l'expérience en grand groupe et voir les différentes
+réaction de ses collegues avec qui ont a partager l'expérience. Bref, je recommande a tous de faire l'expérience qui vous transporte dans différent univers culinaires.
+
+
 
 
 
