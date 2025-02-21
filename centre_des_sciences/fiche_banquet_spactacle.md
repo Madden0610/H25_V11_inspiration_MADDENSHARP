@@ -4,11 +4,16 @@
  
 **Lieu :** Centre des sciences de Montréal
 
-<br>
 
 **Type d'exposition :** Temporaire et intérieure
 
-<br>
+
+
+
+ Date de réalisation  : 16 mai 2024
+
+
+
 
 **Date de visite :** 31 Janvier 2025
 </div>
@@ -23,8 +28,8 @@
 
 
 
-Lors de notre visite au Centre des sciences de Montréal, nous avons eu l'occasion de découvrir une exposition temporaire de GRAPHICS eMOTIONen partenariat avec INRAE et en collaboration avec Radio-Canada qui a mis en œuvre l'exposition "Le Banquet". 
-Plusieurs installations interactives sur le thème de la cuisine et de la nourriture sont présentées, mais une autre exposition a retenu davantage mon attention. Elle s'appelle "Le Spectacle".
+Lors de notre visite au Centre des sciences de Montréal, nous avons eu l'occasion de découvrir une exposition temporaire de GRAPHICS eMOTION en partenariat avec INRAE et en collaboration avec Radio-Canada, qui a présenté l'exposition "Le Banquet". Plusieurs installations interactives sur le thème de la cuisine et de la nourriture étaient proposées, mais une autre exposition a particulièrement retenu mon attention : "Le Spectacle". 
+
 "Le Spectacle" est une exposition multisensorielle qui combine images, sons, projections et arômes, inspirée par un menu créé par les chefs Thierry Marx et Raphaël Haumont.
 
 <div align="center">
@@ -41,7 +46,7 @@ Plusieurs installations interactives sur le thème de la cuisine et de la nourri
 </br>
 
 
-Le but de l'exposition est un service de restauration avec des repas gastronomiques avec plusieurs services avec des projections sur les murs, mais également sur la grande table centrale de l'exposition. Le but de l'exposition est de dévorer avec vos yeux.
+Le but de l'exposition est de proposer un service de restauration avec des repas gastronomiques servis en plusieurs temps, accompagnés de projections sur les murs, mais aussi sur la grande table centrale de l’exposition. L'objectif est de "déguster" avec vos yeux, en savourant visuellement chaque plat à travers des images immersives.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Madden0610/H25_V11_inspiration_MADDENSHARP/refs/heads/main/centre_des_sciences/media/vue_d'enssemble.JPG" alt="Alt Text" width="600" height="480">
@@ -54,8 +59,7 @@ Le but de l'exposition est un service de restauration avec des repas gastronomiq
 </br>
 
 
-L'installation Le spectacle de l'exposition le banquet est une installation de type IMMERSIF qui nous apportent dans différent univers de la cuisine avec différent paysages selon les différents repas projecté.
-
+L’installation du spectacle de l’exposition *Le Banquet* est une expérience immersive qui nous transporte dans différents univers culinaires, avec des paysages variés correspondant aux repas projetés.
 
 
 
@@ -80,14 +84,16 @@ Nombreux projecteur de lumière sont installer dans les hauteurs du dispositif i
 </div>
 
 
-Des projecteur plus petit  sont maintenus sur des suports de métal pour maintenir leur stabilité. C'est projecteur ont un role important, car ils font la projection sur les mur qui entoure la salle de l'expérience immersif.
+Des projecteurs plus petits sont fixés sur des supports en métal pour assurer leur stabilité. Ils projettent des images sur les murs autour de la salle, ajoutant ainsi à l'immersion de l'expérience.
+
 
 
 <div align="center">
 <img src="https://github.com/Madden0610/H25_V11_inspiration_MADDENSHARP/blob/main/centre_des_sciences/media/pp.PNG?raw=true" alt="Alt Text" width="400" height="480">
 </div>
 
-Un autre type de projecteur est utilisé pour la projection. Celui ci est utilisé pour la projection des images sur la table principal du dispositif. Comme pour l'autre propjecteir il est maintenu sur une structure de métal
+Un autre type de projecteur est utilisé pour la projection, spécifiquement dédié à l’affichage des images sur la table principale du dispositif. Tout comme l’autre projecteur, il est solidement maintenu sur une structure en métal, garantissant ainsi une projection stable et immersive.
+
 
 
 <div align="center">
@@ -100,7 +106,9 @@ Un autre type de projecteur est utilisé pour la projection. Celui ci est utilis
 </div>
 
 
-Lors de votre entré vous allez apercevoir une écran avec une minutrie qui indique le prochain tour avant le commencement de la projection et juste en dessou de l'écran 4 panneau sont a votre disposition. 2 panneaux sont en français et les deux autres en  anglais. le panneau de couleur vert indique le menu que propose le dispositif et le panneau gris parle des chef cuisinier.
+Lors de votre entrée, vous allez apercevoir un écran avec une minuterie indiquant le temps restant avant le début de la projection. Juste en dessous de cet écran, quatre panneaux sont mis à votre disposition : deux en français et deux en anglais. Le panneau de couleur verte présente le menu proposé par le dispositif, tandis que le panneau gris fournit des informations sur les chefs cuisiniers.
+
+
 
 <h1 align="center">COMPOSENTE DE LA TABLE CENTRALE </h1>
 
@@ -115,27 +123,25 @@ Lors de votre entré vous allez apercevoir une écran avec une minutrie qui indi
 <img src="https://github.com/Madden0610/H25_V11_inspiration_MADDENSHARP/blob/main/centre_des_sciences/media/assiette.JPG?raw=true" alt="Alt Text" width="600" height="480">
 </div>
 
-Chaque place dispose d'une assiette qui est accrocher a la table. C'est a se moment que nous pouvons apercevoir les différent plat que le menu nous proposait lors de notre entrée dans le dispositif.
-
+Chaque place dispose d'une assiette qui est accrochée à la table. C'est à ce moment que nous pouvons apercevoir les différents plats que le menu nous proposait lors de notre entrée dans le dispositif, rendant l'expérience encore plus immersive et captivante.
 <h2>TROUE D'ODEUR</h2>
 
 <div align="center">
 <img src="https://github.com/Madden0610/H25_V11_inspiration_MADDENSHARP/blob/main/centre_des_sciences/media/odeur12.png?raw=true" alt="Alt Text" width="600" height="480">
 </div>
 
-Lors de l'expérience un petit troue qui se trouve juste en dessou de l'assiette vous permets d'utilisé votre sens de l'odorat. Différente saveure durand le service vous sera soufler sous votre nez. 
+Lors de l’expérience, un petit trou situé juste en dessous de l’assiette vous permet de solliciter votre sens de l’odorat. Tout au long du service, différentes saveurs et arômes sont délicatement diffusés sous votre nez, renforçant ainsi l’immersion et rendant l’expérience encore plus sensorielle et réaliste.
 
 <h2>HAUT-PARLEUR</h2>
 
 <div align="center">
 <img src="https://github.com/Madden0610/H25_V11_inspiration_MADDENSHARP/blob/main/centre_des_sciences/media/haut-parleur11.png?raw=true" alt="Alt Text" width="600" height="480">
 </div>
-
-Des haut-parleurs sont également situé sur le long de la table, car plusieures musiques d'ambiance son diffusé pour nos oreilles se qui rend l'expérience encore plus unique.
+Des haut-parleurs sont également disposés tout le long de la table, diffusant une variété de musiques d’ambiance soigneusement choisies. Cette immersion sonore renforce l’expérience en créant une atmosphère encore plus captivante et harmonieuse. Chaque musiques  accompagne parfaitement les projections visuelles, rendant le voyage sensoriel encore plus mémorable et unique.
 
 <h1 align="center">EXPÉRIENCE VÉCUE</h1>
 
-L'expérience vécu est nul autre qu'un service de restauration 5 étoiles avec différent repas servis même si cela est simplement de la projection, ce n'est pas l'envie qui me manque de manger les différent plat servit.
+L’expérience vécue est rien de moins qu’un service de restauration cinq étoiles, avec différents repas servis. Même si ce ne sont que des projections, l’envie de déguster les plats présentés ne manque pas !
 
 Voici deux liens video qui vous permets de voir les projections:
 
@@ -146,9 +152,11 @@ Voici deux liens video qui vous permets de voir les projections:
 <h1 align="center">Ce qui ma plu le plus </h1>
 
 
-Ce que j'ai le plus aimer de l'expérience est les différentes projections sur la table l'éclairage était simplement magnifique les couleurs très vivent, ont se croyait vraiment dans un autre univers qui fait du bien pour nos yeux. 
-Aussi ce dont j'ai aprécier est le fait que nous pouvons partager l'expérience en grand groupe et voir les différentes
-réaction de ses collegues avec qui ont a partager l'expérience. Bref, je recommande a tous de faire l'expérience qui vous transporte dans différent univers culinaires.
+Ce que j’ai le plus aimé de l’expérience, ce sont les différentes projections sur la table. L’éclairage était tout simplement magnifique, avec des couleurs très vives, ce qui nous donnait l’impression d’être transportés dans un autre univers, un véritable plaisir pour les yeux.
+
+J’ai également apprécié le fait de pouvoir partager cette expérience en grand groupe et d’observer les différentes réactions de mes collègues avec qui j’ai vécu ce moment.
+
+Bref, je recommande à tous de tenter cette expérience immersive qui vous transporte à travers différents univers culinaires !
 
 
 
