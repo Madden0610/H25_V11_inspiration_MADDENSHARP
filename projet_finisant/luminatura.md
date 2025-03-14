@@ -19,7 +19,7 @@
 **Date de visite :**  3 mars 2025
 </div>
 
-![photo](media/photo_/image.JFIF)
+![photo](media/photo_/image.jfif)
 
 
 
