@@ -39,6 +39,89 @@ Luminatura est une expérience immersive mêlant la nature et la technologie, o�
 
 SOURCE: https://miaou-mafia.github.io/projet-luminatura/#/20_intention/10_synopsis/
 
+<h1 align="center">TYPE D'INSTALLATION</h1>
+
+Installation interactive
+
+[PHOTO]
+
+
+
+
+<h1 align="center">MISE EN ESPACE</h1>
+
+La mise en espace de l'installation interactive est situé dans un grand studio dans le College Montmorency qui fait 15.26m de longueur et 9.06m de large avec un mur de type cyclorama
+
+Source pour les mesures du studio: https://tim-montmorency.com/
+
+[PHOTO]
+
+
+
+
+<h1 align="center">COMPOSANTES ET TECHNIQUE</h1>
+
+## Fournis par les artistes
+
+10-15 vignes artificielles en plastique
+
+6 ampoules LED
+
+3 plaques en acier
+
+2 lanternes
+
+6 extensions pour lumière (câbles)
+
+1 tissu (3m) de couleur jaune
+
+1 tissu (3m) de couleur rose
+
+1 tissu (3m) de couleur blanche
+
+3 résistances
+
+1 câble en acier
+
+6 câbles métalliques en acier inoxydable
+
+Ruban adhésif métallique
+
+
+## Fournis par le college
+
+Câbles (HDMI, Ethernet, audio)
+
+1 PC
+
+1 ordinateur portable
+
+3 haut-parleurs GENELEC 8030C
+
+3 support (support des haut-parleurs)
+
+6 supports imprimés en 3D
+
+1 câble DMX
+
+1 carte de son
+
+1 microcontrôleur Atom M5
+
+5 câbles Ethernet
+
+## Logiciel utilisé 
+
+REAPER: Montage sonore
+
+PLUGDATA: Effet sonores
+
+Arduino: Capteur de type « sensing capacitif » et connexion des composants
+
+QLC+:	Création des scènes lumineuses
+
+Puredata:	Envoi de données des différents logiciels
+
 
 
 
