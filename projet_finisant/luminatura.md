@@ -134,7 +134,15 @@ SOURCE: https://miaou-mafia.github.io/projet-luminatura/#/30_production/40_devis
 
 <h1 align="center">VOICI LES PRINCIPALES COMPOSANTES TECHNIQUES QUE LES UTILISATEURS PEUVENT APERCEVOIR.</h1>
 
-## 
+## 3 PLAQUES MÉTALIQUES
+
+![photo](media/photo_/plaque.jfif)
+
+Trois plaques métalliques sont situées devant le mur blanc. Les plaques métalliques sont utilisées pour provoquer un changement de couleur de la projection et également pour générer un effet sonore. C'est lorsque les utilisateurs posent leurs mains sur la plaque que le capteur de capacitance détecte la peau, ce qui provoque une réponse en fonction de la capacitance.
+
+## HAUT-PARLEUR
+
+
 
 
 
