@@ -150,6 +150,8 @@ Trois haut-parleurs sont placés juste en dessous des plaques métalliques. Lors
 
 Ce que j'ai le plus aimé, c'est l'ambiance que nous avons traversée pendant cette expérience. Nous avions l'impression d'être dans une forêt magique avec un petit ruisseau. 
 Les bruits sonores nous placent dans un mode de relaxation, et les couleurs sont très bien choisies ; elles nous rappellent la nature.
+![photo](media/photo/couleur.JPG)
+
 
 
 
