@@ -90,6 +90,8 @@ Source pour les mesures du studio: https://tim-montmorency.com/
 
 Ruban adhésif métallique
 
+SOURCE: https://miaou-mafia.github.io/projet-luminatura/#/30_production/40_devis/
+
 
 ## Voici les nombreux autres éléments utilisés par les artistes, qui ont été fournis par le college Montmorency 
 
@@ -113,6 +115,8 @@ Câbles (HDMI, Ethernet, audio)
 
 5 câbles Ethernet
 
+SOURCE: https://miaou-mafia.github.io/projet-luminatura/#/30_production/40_devis/
+
 ## Pour mettre en œuvre leur projet, les étudiants ont dû utiliser de nombreux logiciels afin que leur projet puisse bien se mettre en marche.
 
 REAPER: Montage sonore
@@ -124,6 +128,13 @@ Arduino: Capteur de type « sensing capacitif » et connexion des composants
 QLC+:	Création des scènes lumineuses
 
 Puredata:	Envoi de données des différents logiciels
+
+SOURCE: https://miaou-mafia.github.io/projet-luminatura/#/30_production/40_devis/
+
+
+<h1 align="center">VOICI LES PRINCIPALES COMPOSANTES TECHNIQUES QUE LES UTILISATEURS PEUVENT APERCEVOIR.</h1>
+
+## 
 
 
 
