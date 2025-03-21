@@ -55,14 +55,16 @@ La mise en espace de l'installation interactive est situé dans un grand studio 
 
 Source pour les mesures du studio: https://tim-montmorency.com/
 
-[PHOTO]
+
+![photo](media/photo_/vue02.jfif)
 
 
 
 
 <h1 align="center">COMPOSANTES ET TECHNIQUE</h1>
 
-## Fournis par les artistes
+## Voici les nombreux éléments utilisés par les artistes, qui ont dû les acheter par leurs propres moyens pour la réalisation de leurs projets.
+
 
 10-15 vignes artificielles en plastique
 
@@ -89,7 +91,7 @@ Source pour les mesures du studio: https://tim-montmorency.com/
 Ruban adhésif métallique
 
 
-## Fournis par le college
+## Voici les nombreux autres éléments utilisés par les artistes, qui ont été fournis par le college Montmorency 
 
 Câbles (HDMI, Ethernet, audio)
 
@@ -111,7 +113,7 @@ Câbles (HDMI, Ethernet, audio)
 
 5 câbles Ethernet
 
-## Logiciel utilisé 
+## Pour mettre en œuvre leur projet, les étudiants ont dû utiliser de nombreux logiciels afin que leur projet puisse bien se mettre en marche.
 
 REAPER: Montage sonore
 
