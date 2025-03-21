@@ -43,7 +43,8 @@ SOURCE: https://miaou-mafia.github.io/projet-luminatura/#/20_intention/10_synops
 
 Installation interactive
 
-[PHOTO]
+
+![photo](media/photo_/vue_d'enssemble.jfif)
 
 
 
