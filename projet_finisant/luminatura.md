@@ -147,7 +147,15 @@ Trois plaques métalliques sont situées devant le mur blanc. Les plaques métal
 Trois haut-parleurs sont placés juste en dessous des plaques métalliques. Lorsque les individus touchent les plaques, les effets sonores sortiront de ces haut-parleurs.
 
 ## ÉCLAIRAGE ET PROJECTEUR
-![photo](media/photo_/projecteur.jpg)
+![photo](media/photo_/eclairage.png)
+
+De nombreux éléments d'éclairage sont suspendus au plafond du studio sur une structure métallique.
+
+Un projecteur est orienté vers le grand mur blanc où des projections de couleur peuvent être réalisées.
+
+Un autre projecteur projette une image sur les plaques métalliques.
+
+Des spots lumineux contribuent également à créer une ambiance.
 
 #  <h1 align="center">CE QUI MA PLU.</h1>
 
