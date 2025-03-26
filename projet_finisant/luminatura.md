@@ -146,6 +146,9 @@ Trois plaques métalliques sont situées devant le mur blanc. Les plaques métal
 
 Trois haut-parleurs sont placés juste en dessous des plaques métalliques. Lorsque les individus touchent les plaques, les effets sonores sortiront de ces haut-parleurs.
 
+## ÉCLAIRAGE ET PROJECTEUR
+![photo](media/photo_/projecteur.jpg)
+
 #  <h1 align="center">CE QUI MA PLU.</h1>
 
 Ce que j'ai le plus aimé, c'est l'ambiance que nous avons traversée pendant cette expérience. Nous avions l'impression d'être dans une forêt magique avec un petit ruisseau. 
