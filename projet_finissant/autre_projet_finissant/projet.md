@@ -14,6 +14,8 @@ Kenza El Harrif:   Directrice artistique
 
 Khaly Tia Sing:     Chargé de projet
 
+![photo](media/photo_/Image.jfif)
+
  
 
 
