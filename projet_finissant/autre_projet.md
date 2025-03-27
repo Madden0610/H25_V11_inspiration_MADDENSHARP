@@ -28,6 +28,7 @@ Programmation interactive / Traitement audiovisuel / Audio
 
 ![photo](media/photo_/inter.png)   
 ![photo](media/photo_/02.png)  
+source:https://tprangers.github.io/internature/#/
 
 
 
@@ -55,8 +56,10 @@ Programmation interactive / Traitement audiovisuel / Audio
 
  J'ai trouvé la technique de capture vidéo de la planche à dessin très intéressante, car grâce à la caméra vidéo, elle permet de capturer en temps réel les dessins, assurant ainsi la synchronisation des éléments sonores et visuels.
 
-![photo](media/photo_/inter.png)   
-![photo](media/photo_/02.png)  
+   LIEN YOUTUBE: https://studio.youtube.com/video/SMC4XM5rJOo/edit
+![photo](media/photo_/pri.png)  
+
+source: https://pootpookies.github.io/Prismatica/#/
 
 
 
