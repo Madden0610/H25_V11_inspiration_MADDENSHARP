@@ -176,10 +176,10 @@ Programmation interactive / Design Graphique / video
 
 Les capteurs utilisés pour capter la position des jetons que les joueurs doivent avoir en main pour pouvoir jouer sont très bien réussis, et je trouve cela fascinant, car tout est capté par les détecteurs et transmis à l'ordinateur pour créer l'interactivité.
 
-![photo](media/photo_/condu.png)  
- ![photo](media/photo_/con.png)  
+![photo](media/photo_/e.png)  
+ ![photo](media/photo_/ethéria.png)  
 
-source: https://gearshift-games.github.io/Web-C0N-DU8/#/
+source: https://ethereal-creators.github.io/Etheria/#/
 
 
 
