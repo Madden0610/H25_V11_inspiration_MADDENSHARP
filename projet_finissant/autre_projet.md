@@ -85,13 +85,10 @@ Lorsque nous approchons de l'installation, nous pouvons immédiatement nous proj
 ## Cours incontournables
 Programmation interactive / Design graphique/ Audio
 
-## Technique utilisé
 
- Ce qui m’a le plus intrigué, ce sont les techniques de projection sur des surfaces arrondies que les étudiants ont dû ajuster minutieusement à l’aide de logiciels de mapping. Je pensais, à tort, que toute la projection se faisait uniquement grâce au projecteur, sans se soucier de la déformation des images.
-
-![photo](media/photo_/inter.png)   
-![photo](media/photo_/02.png)  
-source:https://tprangers.github.io/internature/#/
+![photo](media/photo_/fuga02.png)   
+![photo](media/photo_/fuga.png)  
+source: https://escapism-fuga.github.io/Fuga/#/
 
 
 
