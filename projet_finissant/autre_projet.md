@@ -112,11 +112,44 @@ Programmation interactive / Design Graphique / Audio
 ## Technique utilisé
 
 Ce qui m'intéresse le plus dans ce dispositif, ce sont les différents boutons avec lesquels les utilisateurs peuvent interagir pour faire avancer la quête des personnages du jeu.
+ 
+![photo](media/photo_/arcade.png)  
+ ![photo](media/photo_/arc.png)  
 
-   LIEN YOUTUBE: https://studio.youtube.com/video/SMC4XM5rJOo/edit
-![photo](media/photo_/pri.png)  
+source: https://cousi-cousa.github.io/Arcadia/#/
 
-source: https://pootpookies.github.io/Prismatica/#/
+
+ #  <h1 align="center"> #4 CON DU8 </h1>
+
+ ## Équipe
+Alexandre Gervais:  Programmeur
+
+Jérémy Roy Côté:    Programmeur
+
+Kevin Malric:       Responsable des médias
+
+Samuel Desmeules Voyer: Directeur artistique
+
+Ian Corbin: Mapping 
+
+
+## Ressenti
+
+Les premières sensations étaient que je n'avais pas beaucoup d'attentes, je me suis dit qu'on allait faire du vélo et avoir chaud, mais finalement, ce fut quand même une bonne expérience, car tu ne dois pas seulement pédaler, mais tes mouvements du corps font également bouger le personnage de gauche à droite.
+
+## Cours incontournables
+Programmation interactive / Design Graphique / Audio
+
+## Technique utilisé
+
+"Une des techniques utilisées que j'ai trouvées vraiment intéressantes est celle où, avec les mouvements de ton corps, tu peux faire bouger le personnage à l'écran. Tout cela se fait grâce à des capteurs qui envoient directement le signal à l'ordinateur, rendant ainsi le dispositif interactif
+
+![photo](media/photo_/arcade.png)  
+ ![photo](media/photo_/arc.png)  
+
+source: https://cousi-cousa.github.io/Arcadia/#/
+
+
 
 
 
