@@ -56,7 +56,7 @@ La mise en espace de l'installation interactive est situé dans un grand studio 
 
 Source pour les mesures du studio: https://tim-montmorency.com/
 
-![photo](media/photo_/vue02.jfif)
+![photo](media/photo_/lin.png)
 ![photo](media/photo_/vue02.jfif)
 
 
@@ -157,6 +157,12 @@ Un projecteur est orienté vers le grand mur blanc où des projections de couleu
 Un autre projecteur projette une image sur les plaques métalliques.
 
 Des spots lumineux contribuent également à créer une ambiance.
+
+# <h1 align="center">EXPÉRIENCE VÉCU.</h1>
+
+L'expérience vécue consiste à interagir avec la plaque et à observer les différents changements qu'elle provoque au toucher. Les effets sonores nous plongent dans un univers de détente et de relaxation, tandis que les couleurs contribuent à nous mettre dans un état de calme.
+
+Lien video qui montre l'expérience vécu: https://youtube.com/shorts/p2ZmkqdyBf4?feature=share
 
 #  <h1 align="center">CE QUI MA PLU.</h1>
 
