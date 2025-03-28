@@ -2,7 +2,7 @@
 <h1 align="center">LES AUTRE PROJETS</h1>
  
 
- #  <h1 align="center"> # 1INTERNATURE</h1>
+ #  <h1 align="center"> #1 INTERNATURE</h1>
 
  ## Équipe
 Sitmonternna Yi:   Mapping vidéo et conception sonore
@@ -60,6 +60,39 @@ Programmation interactive / Traitement audiovisuel / Audio
 ![photo](media/photo_/pri.png)  
 
 source: https://pootpookies.github.io/Prismatica/#/
+
+
+
+ 
+
+ #  <h1 align="center"> #3 FUGA</h1>
+
+ ## Équipe
+Yavuz-Selim Gucluer:  Programmeur
+
+Matis Labelle:        Chargé de projet
+
+Daniel Dezemma:   Directeur Visuel
+
+Tristan Kkadka:   Directeur sonore
+
+Abdel Ali Djeral:   Programmeur  
+
+## Ressenti
+
+Lorsque nous approchons de l'installation, nous pouvons immédiatement nous projeter dans un univers forestier avec des décors feuillus. Ensuite, lorsque tu interagis avec le dispositif, tu dois laisser libre cours à ton côté artistique pour créer un arbre à ton image avec différents boutons 
+
+## Cours incontournables
+Programmation interactive / Design graphique/ Audio
+
+## Technique utilisé
+
+ Ce qui m’a le plus intrigué, ce sont les techniques de projection sur des surfaces arrondies que les étudiants ont dû ajuster minutieusement à l’aide de logiciels de mapping. Je pensais, à tort, que toute la projection se faisait uniquement grâce au projecteur, sans se soucier de la déformation des images.
+
+![photo](media/photo_/inter.png)   
+![photo](media/photo_/02.png)  
+source:https://tprangers.github.io/internature/#/
+
 
 
 
