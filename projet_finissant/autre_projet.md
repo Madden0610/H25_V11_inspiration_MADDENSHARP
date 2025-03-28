@@ -130,7 +130,7 @@ Kevin Malric:       Responsable des médias
 
 Samuel Desmeules Voyer: Directeur artistique
 
-Ian Corbin: Mapping 
+Ian Corbin:      Mapping 
 
 
 ## Ressenti
@@ -144,10 +144,42 @@ Programmation interactive / Design Graphique / Audio
 
 "Une des techniques utilisées que j'ai trouvées vraiment intéressantes est celle où, avec les mouvements de ton corps, tu peux faire bouger le personnage à l'écran. Tout cela se fait grâce à des capteurs qui envoient directement le signal à l'ordinateur, rendant ainsi le dispositif interactif
 
-![photo](media/photo_/arcade.png)  
- ![photo](media/photo_/arc.png)  
+![photo](media/photo_/condu.png)  
+ ![photo](media/photo_/con.png)  
 
-source: https://cousi-cousa.github.io/Arcadia/#/
+source: https://gearshift-games.github.io/Web-C0N-DU8/#/
+
+
+
+ #  <h1 align="center"> #5 Etheria </h1>
+
+ ## Équipe
+ Michel Dupré:  Programmeur, Artiste
+
+Pierre-Luc Proux:   Programmeur, Artiste
+
+Maik Hamel:      Composition sonore
+
+Victor Gileau:   Programmeur
+
+Joshua Gonzalez Barrera:  Monteur vidéo
+
+
+## Ressenti
+
+Lorsque nous arrivons sur le lieu où le projet est installé, nous pouvons voir une belle table avec des designs très beaux projetés par des projecteurs. J'ai bien aimé l'aspect travail d'équipe nécessaire pour réussir la quête
+
+## Cours incontournables
+Programmation interactive / Design Graphique / video
+
+## Technique utilisé
+
+Les capteurs utilisés pour capter la position des jetons que les joueurs doivent avoir en main pour pouvoir jouer sont très bien réussis, et je trouve cela fascinant, car tout est capté par les détecteurs et transmis à l'ordinateur pour créer l'interactivité.
+
+![photo](media/photo_/condu.png)  
+ ![photo](media/photo_/con.png)  
+
+source: https://gearshift-games.github.io/Web-C0N-DU8/#/
 
 
 
