@@ -92,4 +92,32 @@ source: https://escapism-fuga.github.io/Fuga/#/
 
 
 
+ #  <h1 align="center"> #3 ARCADIA </h1>
+
+ ## Équipe
+Dominic Yale:        Conception sonore
+
+William Beauvais:    Conception visuel
+
+Anton Nikulin:       Programmation
+
+
+## Ressenti
+
+Lorsque nous nous trouvons devant l'installation, on peut facilement entrer dans un mode de jeu d'arcade, comme dans les fêtes foraines où l'on joue avec des jetons. Dès que l'on commence à jouer, l'esprit compétitif des jeux d'arcade entre en nous
+
+## Cours incontournables
+Programmation interactive / Design Graphique / Audio
+
+## Technique utilisé
+
+Ce qui m'intéresse le plus dans ce dispositif, ce sont les différents boutons avec lesquels les utilisateurs peuvent interagir pour faire avancer la quête des personnages du jeu.
+
+   LIEN YOUTUBE: https://studio.youtube.com/video/SMC4XM5rJOo/edit
+![photo](media/photo_/pri.png)  
+
+source: https://pootpookies.github.io/Prismatica/#/
+
+
+
 
