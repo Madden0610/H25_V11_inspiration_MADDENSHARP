@@ -56,7 +56,7 @@ La mise en espace de l'installation interactive est situé dans un grand studio 
 
 Source pour les mesures du studio: https://tim-montmorency.com/
 
-
+![photo](media/photo_/vue02.jfif)
 ![photo](media/photo_/vue02.jfif)
 
 
