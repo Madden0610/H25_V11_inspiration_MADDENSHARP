@@ -1,7 +1,8 @@
 
 <h1 align="center">LES AUTRE PROJETS</h1>
 
-![photo](media/photo_/resonance.png)   
+
+![photo](media/photo_/Image.jfif)
  
 
  #  <h1 align="center"> #1 INTERNATURE</h1>
