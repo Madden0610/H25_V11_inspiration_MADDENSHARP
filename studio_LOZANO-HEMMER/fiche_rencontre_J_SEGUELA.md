@@ -25,3 +25,8 @@ Bref, la conférence fut très intéressante. La découverte de ces œuvres m'a 
 
  ![Image 1](media/photo/shadow_tuner.jpg) | ![Image 2](media/photo/sphere_packing.jpg) 
 
+source des images
+shadown turner: https://lozano-hemmer.com/showimage_emb.php?proj=shadow_tuner&img=abu_dhabi_2023&idproj=410&type=artwork&id=7
+
+
+sphere packing: https://lozano-hemmer.com/showimage_emb.php?proj=sphere_packing_bach&img=monterrey_2019&idproj=339&type=artwork&id=2
