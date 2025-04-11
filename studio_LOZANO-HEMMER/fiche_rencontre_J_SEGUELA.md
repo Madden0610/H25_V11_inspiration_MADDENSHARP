@@ -25,8 +25,8 @@ Bref, la conférence fut très intéressante. La découverte de ces œuvres m'a 
 
  ![Image 1](media/photo/shadow_tuner_RLH.png) 
 
+  photo de l'oeuvre en exposition au Abu Dhabi, United Arab Emirates, 2023. Shadow tuner photo Rafael Lozano-Hemmer 
+
 source des images
 shadown turner: https://lozano-hemmer.com/showimage_emb.php?proj=shadow_tuner&img=abu_dhabi_2023&idproj=410&type=artwork&id=7
 
-
-sphere packing: https://lozano-hemmer.com/showimage_emb.php?proj=sphere_packing_bach&img=monterrey_2019&idproj=339&type=artwork&id=2
