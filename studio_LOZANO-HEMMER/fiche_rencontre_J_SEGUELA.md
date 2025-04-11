@@ -23,7 +23,7 @@ Bref, la conférence fut très intéressante. La découverte de ces œuvres m'a 
 
 
 
- ![Image 1](media/photo/shadow_tuner.jpg) | ![Image 2](media/photo/sphere_packing.jpg) 
+ ![Image 1](media/photo/shadow_tuner_RLH.png) 
 
 source des images
 shadown turner: https://lozano-hemmer.com/showimage_emb.php?proj=shadow_tuner&img=abu_dhabi_2023&idproj=410&type=artwork&id=7
