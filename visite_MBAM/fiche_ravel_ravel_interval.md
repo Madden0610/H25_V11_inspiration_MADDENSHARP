@@ -64,9 +64,9 @@ vue d'ensemble|
 L'œuvre se compose de nombreux éléments nécessaires à son fonctionnement. Elle inclut des projecteurs vidéo HD en couleur, qui projette des images sur deux écrans transparents. Le dispositif comprend également 14 haut-parleurs diffusant les différentes mélodies jouées au piano.
 
 
-projecteur |  texte descriptif | 
+projecteur | écran | 
 :-------------------------:|:-------------------------:|
-![photo](media/proj2.png)|![photo](media/texte.png)
+![photo](media/proj2.png)|![photo](media/ecran22.png)
 
 
 
