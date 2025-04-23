@@ -68,6 +68,10 @@ projecteur | écran |
 :-------------------------:|:-------------------------:|
 ![photo](media/proj2.png)|![photo](media/ecran22.png)
 
+## Éléments nécessaires
+
+Dans la pièce, deux longs bancs sont disposés à l’horizontale, face aux deux écrans, permettant aux visiteurs de s’asseoir et de profiter pleinement de l’œuvre. Les murs qui entourent la salle sont recouverts de panneaux acoustiques, afin d’isoler l’espace et de rendre l’expérience encore plus immersive.
+
 
 
 
