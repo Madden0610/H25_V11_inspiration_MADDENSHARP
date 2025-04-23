@@ -72,7 +72,14 @@ projecteur | écran |
 
 Dans la pièce, deux longs bancs sont disposés à l’horizontale, face aux deux écrans, permettant aux visiteurs de s’asseoir et de profiter pleinement de l’œuvre. Les murs qui entourent la salle sont recouverts de panneaux acoustiques, afin d’isoler l’espace et de rendre l’expérience encore plus immersive.
 
+banc | 
+:-------------------------:|
+![photo](media/banc.png)
 
+## Expérience vécue 
 
+L’expérience vécue consiste à observer les différentes vues projetées et à se promener dans la salle, bercé par les nombreux haut-parleurs qui nous font voyager au rythme d’une belle mélodie. L’œuvre nous plonge dans un état de relaxation profonde ; pendant l’expérience, j’avais l’impression de ne plus penser à rien, entièrement absorbé par la présentation.
 
+## Ce qui ma plus plu
 
+ Qui m’a le plus plu, c’est la qualité de la projection sur les deux écrans : l’image était très nette, ce qui permettait de bien apprécier les détails. J’ai aussi beaucoup aimé la grandeur de la salle. Comme elle est plongée dans le noir, le fait qu’elle soit vaste donne une sensation d’espace et évite de se sentir enfermé.
