@@ -37,6 +37,10 @@ Anri Sala |
 
 RAVEL RAVEL INTERVAL est une installation vidéo. L’œuvre met en scène deux pianistes qui joue séparément le Concerto pour la main gauche de Maurice Ravel, une pièce composée pour un seul bras. Les deux enregistrements sont diffusés simultanément sur deux écrans, dans une mise en scène où les décalages rythmiques subtils créent une nouvelle écoute.
 
+vue oeuvre | 
+:-------------------------:|
+![photo](media/vue_de_face.jpg)
+
 
 mur d'entrée |  texte descriptif | 
 :-------------------------:|:-------------------------:|
@@ -46,3 +50,25 @@ mur d'entrée |  texte descriptif |
 ## Type d'installation
 
 l'installation d'Anri Sala est une ouevre de type immersif, car elle met les spectateurs dans un univers audio visuel 
+
+## Mise en espace
+
+L'oeuvre est disposé dans une grande salle insonirisé du musé des arts de Montréeal. Nous pouvons êtres plusieurs dans la même salle pour pouvoir apprécier l'oeuvre. Nous sommes projecté dans une salle sombre pour pour d'avantage apercevoir les projections sur les deux écrans du l'oeuvre.
+
+vue d'ensemble| 
+:-------------------------:|
+![photo](media/vue_ensemble.jpg)
+
+## Composantes
+
+L'œuvre se compose de nombreux éléments nécessaires à son fonctionnement. Elle inclut des projecteurs vidéo HD en couleur, qui projette des images sur deux écrans transparents. Le dispositif comprend également 14 haut-parleurs diffusant les différentes mélodies jouées au piano.
+
+
+projecteur |  texte descriptif | 
+:-------------------------:|:-------------------------:|
+![photo](media/projecteur.jpg)|![photo](media/texte.png)
+
+
+
+
+
