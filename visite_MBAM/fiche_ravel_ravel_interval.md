@@ -66,7 +66,7 @@ L'œuvre se compose de nombreux éléments nécessaires à son fonctionnement. E
 
 projecteur |  texte descriptif | 
 :-------------------------:|:-------------------------:|
-![photo](media/projecteur.jpg)|![photo](media/texte.png)
+![photo](media/projecteur2.jpg)|![photo](media/texte.png)
 
 
 
