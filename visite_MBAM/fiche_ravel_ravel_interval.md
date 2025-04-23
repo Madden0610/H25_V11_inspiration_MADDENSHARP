@@ -32,7 +32,7 @@ Anri Sala est un artiste qui a étudier à l’Académie des Beaux-Arts d’Alba
 
 RAVEL RAVEL INTERVAL est une installation vidéo. L’œuvre met en scène deux pianistes qui joue séparément le Concerto pour la main gauche de Maurice Ravel, une pièce composée pour un seul bras. Les deux enregistrements sont diffusés simultanément sur deux écrans, dans une mise en scène où les décalages rythmiques subtils créent une nouvelle écoute.
 
-![image](media/entree01.jpg)
+![image](media/ent.png)
 
 ## Type d'installation
 
