@@ -43,7 +43,32 @@ L'œuvre possède de nombreuses composantes techniques qui contribuent à en fai
 
 Projecteur |  Éclairage |  Écran |
 :-------------------------:|:-------------------------:|:-------------------------:|
-![photo](media/projecteur.PNG)|![photo](media/eclairage.PNG)|![photo](media/eclairage.PNG)
+![photo](media/projecteur.PNG)|![photo](media/eclairage.PNG)|![photo](media/ecran.PNG)
+
+<br>
+PROJECTEUR: 22 projecteurs vidéo sont placé a différent endroit dans la salle. Les 22 projecteurs sont parfaitement synchrones. La surface de projection est de  4 200 pieds carrés, soit 390 mètres carrés.
+</br>
 
 
-PROJECTEUR: 22 projecteurs vidéo sont placé a différent endroit dans la salle. Les 22 projecteurs sont parfaitement synchrones.
+
+<br> 
+ ÉCLAIRAGE: Des gros projecteurs d'éclairage sont également situé dans les hauteurs de l'édifice soutenu par des strucutres de métals qui rend une certaine ambiance dans la salle. 
+</br>
+
+
+<br> 
+Écran : Des écrans-miroirs prolongent les projections sous forme d’images poétiques, tandis que des tulles permettent de créer des effets de transparence. Chaque écran est équipé d’une bande lumineuse DEL munie d’une lentille diffusante.
+</br>
+
+SOURCE: https://www.newswire.ca/fr/news-releases/le-lieu-de-fondation-de-montreal-plus-vivant-que-jamais--848569888.html
+
+
+## Élément nécessaire
+
+Nombreux élément sont nécessaire pour la présentation de l'oeuvre au pubic 
+
+Projecteur |  Éclairage |  Écran |
+:-------------------------:|:-------------------------:|:-------------------------:|
+![photo](media/projecteur.PNG)|![photo](media/eclairage.PNG)|![photo](media/ecran.PNG)
+
+
