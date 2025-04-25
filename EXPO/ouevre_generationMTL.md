@@ -36,3 +36,12 @@ L’œuvre Générations Montréal est une installation immersive conçue pour p
 ## Mise en espace 
 
 L'œuvre est présentée dans une grande salle de l'établissement où les spectateurs sont assis sur des estrades surélevées, permettant d'observer les projections de haut. La pièce est remplie de pierres anciennes datant des premières années de la création de la ville.
+
+## Composantes techniques
+
+L'œuvre possède de nombreuses composantes techniques qui contribuent à en faire une véritable œuvre. Les voici:
+
+vu de proche |  vu accident |  vu salle 1 |  vu salle 2 |  vu salle 3
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![photo](medias/wakonda_enssemble_proche.png)|![photo](medias/wakonda_accident_01.png)|![photo](medias/wakonda_enssemble_proche.png)|![photo](medias/wakonda_salle_01.png)|![photo](medias/wakonda_salle_02_02.png)||![photo](medias/wakonda_salle_01.png)|![photo](medias/wakonda_salle_03_01.png)
+
