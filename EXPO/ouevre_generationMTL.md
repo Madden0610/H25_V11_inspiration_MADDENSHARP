@@ -41,7 +41,9 @@ L'œuvre est présentée dans une grande salle de l'établissement où les spect
 
 L'œuvre possède de nombreuses composantes techniques qui contribuent à en faire une véritable œuvre. Les voici:
 
-vu de proche |  vu accident |  vu salle 1 |  vu salle 2 |  vu salle 3
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![photo](medias/wakonda_enssemble_proche.png)|![photo](medias/wakonda_accident_01.png)|![photo](medias/wakonda_enssemble_proche.png)|![photo](medias/wakonda_salle_01.png)|![photo](medias/wakonda_salle_02_02.png)||![photo](medias/wakonda_salle_01.png)|![photo](medias/wakonda_salle_03_01.png)
+Projecteur |  Éclairage |  Écran |
+:-------------------------:|:-------------------------:|:-------------------------:|
+![photo](media/projecteur.PNG)|![photo](media/eclairage.PNG)|![photo](media/eclairage.PNG)
 
+
+PROJECTEUR: 22 projecteurs vidéo sont placé a différent endroit dans la salle. Les 22 projecteurs sont parfaitement synchrones.
