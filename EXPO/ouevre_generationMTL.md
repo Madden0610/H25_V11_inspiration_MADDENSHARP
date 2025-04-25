@@ -1,6 +1,6 @@
 <h1 align="center">GÉNÉRATION MONTRÉAL</h1>
 
-![photo](media/banc.PNG)
+![photo](media/affiche.PNG)
 
 
  
