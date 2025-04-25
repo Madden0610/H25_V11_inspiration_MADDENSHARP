@@ -74,7 +74,7 @@ Estrade |  Écouteur |  Sélecteur de langue |
 ![photo](media/banc.PNG)|![photo](media/ecouteur.PNG)|![photo](media/langue.PNG)
 
 <br>
-Estrade : Les spectateurs sont invités à s’asseoir dans les estrades installées dans la salle de présentation. Celle-ci peut accueillir jusqu’à 144 personnes, qui peuvent y visionner l’œuvre.
+ESTRADE : Les spectateurs sont invités à s’asseoir dans les estrades installées dans la salle de présentation. Celle-ci peut accueillir jusqu’à 144 personnes, qui peuvent y visionner l’œuvre.
 SOURCE: https://www.newswire.ca/fr/news-releases/le-lieu-de-fondation-de-montreal-plus-vivant-que-jamais--848569888.html
 </br>
 
