@@ -38,10 +38,11 @@ La présentation est animée par six personnages projetés, qui prennent la paro
 
 L’œuvre Générations Montréal est une installation immersive conçue pour plonger les spectateurs au cœur de l’expérience, en les enveloppant visuellement et auditivement.
 
+
 ## Mise en espace 
 
 L'œuvre est présentée dans une grande salle de l'établissement où les spectateurs sont assis sur des estrades surélevées, permettant d'observer les projections de haut. La pièce est remplie de pierres anciennes datant des premières années de la création de la ville.
-
+  ![photo](media/vue_ensemble.PNG)
 ## Composantes techniques
 
 L'œuvre possède de nombreuses composantes techniques qui contribuent à en faire une véritable œuvre. Les voici:
