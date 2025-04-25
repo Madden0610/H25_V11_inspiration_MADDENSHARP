@@ -67,8 +67,8 @@ SOURCE: https://www.newswire.ca/fr/news-releases/le-lieu-de-fondation-de-montrea
 
 Nombreux élément sont nécessaire pour la présentation de l'oeuvre au pubic 
 
-Projecteur |  Éclairage |  Écran |
+Estrade |  Écouteur |  Sélecteur de langue |
 :-------------------------:|:-------------------------:|:-------------------------:|
-![photo](media/projecteur.PNG)|![photo](media/eclairage.PNG)|![photo](media/ecran.PNG)
+![photo](media/banc.PNG)|![photo](media/ecouteur.PNG)|![photo](media/langue.PNG)
 
 
