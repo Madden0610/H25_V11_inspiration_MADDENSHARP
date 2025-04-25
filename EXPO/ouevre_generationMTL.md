@@ -95,6 +95,8 @@ SÉLECTEUR DE LANGUE:   Afin de rendre l’œuvre accessible à tous, chaque si�
 
 L’expérience vécue à Génération Montréal au Pointe-à-Callière est tout simplement incroyable. Les nombreuses projections nous coupent le souffle, nous plongeant dans une immersion totale qui nous fait ressentir l’histoire de la ville de manière tangible et vivante. Les dialogues, à la fois riches et intéressants. Le contexte de présentation, magnifiquement conçu, capte notre attention bien plus que n’importe quel cours d’histoire au secondaire. Il nous transporte dans un univers où l’histoire prend vie, bien au-delà de ce que nous avons pu imaginer.
 
+[![Exemple de capture d'écran](mm.jpg)](https://www.youtube.com/watch?v=-rSUFeTDjxQ)
+
 ## Apréciation
 
 Ce qui m’a le plus plu, ce sont vraiment les nombreuses projections : les couleurs rendent l’ensemble sublime. Les différents personnages que l’on pouvait apercevoir sur le rideau transparent étaient tout simplement incroyables. Je recommande à tout le monde d’aller visiter ce musée et de vivre l’expérience Génération Montréal.
