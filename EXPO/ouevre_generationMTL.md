@@ -1,5 +1,7 @@
 <h1 align="center">GÉNÉRATION MONTRÉAL</h1>
 
+![photo](media/banc.PNG)
+
 
  
 <div align=center>
@@ -71,4 +73,24 @@ Estrade |  Écouteur |  Sélecteur de langue |
 :-------------------------:|:-------------------------:|:-------------------------:|
 ![photo](media/banc.PNG)|![photo](media/ecouteur.PNG)|![photo](media/langue.PNG)
 
+<br>
+Estrade : Les spectateurs sont invités à s’asseoir dans les estrades installées dans la salle de présentation. Celle-ci peut accueillir jusqu’à 144 personnes, qui peuvent y visionner l’œuvre.
+SOURCE: https://www.newswire.ca/fr/news-releases/le-lieu-de-fondation-de-montreal-plus-vivant-que-jamais--848569888.html
+</br>
 
+<br>
+ÉCOUTEUR: Les écouteurs permettent d’écouter les dialogues des six intervenants, ainsi que les nombreuses trames sonores.
+</br>
+
+
+<br>
+SÉLECTEUR DE LANGUE:   Afin de rendre l’œuvre accessible à tous, chaque siège est équipé d’un sélecteur de langue offrant le choix entre l’anglais et le français. Cela permet à un plus large public de profiter pleinement de l’expérience. Un peu plus haut, un régulateur de volume permet à chacun d’ajuster le son selon ses préférences
+</br>
+
+## Expérience vécue
+
+L’expérience vécue à Génération Montréal au Pointe-à-Callière est tout simplement incroyable. Les nombreuses projections nous coupent le souffle, nous plongeant dans une immersion totale qui nous fait ressentir l’histoire de la ville de manière tangible et vivante. Les dialogues, à la fois riches et intéressants. Le contexte de présentation, magnifiquement conçu, capte notre attention bien plus que n’importe quel cours d’histoire au secondaire. Il nous transporte dans un univers où l’histoire prend vie, bien au-delà de ce que nous avons pu imaginer.
+
+## Apréciation
+
+Ce qui m’a le plus plu, ce sont vraiment les nombreuses projections : les couleurs rendent l’ensemble sublime. Les différents personnages que l’on pouvait apercevoir sur le rideau transparent étaient tout simplement incroyables. Je recommande à tout le monde d’aller visiter ce musée et de vivre l’expérience Génération Montréal.
