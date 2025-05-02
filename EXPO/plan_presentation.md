@@ -16,5 +16,5 @@ La présentation est animée par six personnages projetés, qui prennent la paro
 
 
 Conclusion :
-
-apréciation
+Apréciation
+Ce qui m’a le plus plu, ce sont vraiment les nombreuses projections : les couleurs rendent l’ensemble sublime. Les différents personnages que l’on pouvait apercevoir sur le rideau transparent étaient tout simplement incroyables. Je recommande à tout le monde d’aller visiter ce musée et de vivre l’expérience Génération Montréal.
