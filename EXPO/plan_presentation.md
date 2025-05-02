@@ -1,7 +1,7 @@
 Introduction :
 
  Quel est l'objectif de votre communication: Présenter l'oeuvre. Lieux: Point-à-Callière. Firme: TKNL
- Quels aspects seront abordés : le but de l'oeuvre multimedia. de ses nombreuses composantes 
+ Quels aspects seront abordés : le but de l'oeuvre multimedia: présenter la ville de Montréal dans ses début jusqu'a aujourd'hui. de ses nombreuses composantes : projecteur ecram haut-parleur.
 
  
  (sujet divisé = Description de l'oeuvre Type d'installation Mise en espace Composantes techniques Élément nécessaire Expérience vécue Apréciation)
